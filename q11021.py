@@ -1,6 +1,6 @@
 # a+b-7
 
-#t = int(input())
+t = int(input())
 
 
 for i in range(1, t+1):
